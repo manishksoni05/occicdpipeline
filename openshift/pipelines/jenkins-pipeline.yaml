@@ -7,7 +7,7 @@ metadata:
 spec:
     source:
         git:
-            ref: master
+            ref: main
             uri: https://github.com/manishksoni05/occicdpipeline.git
     strategy:
         jenkinsPipelineStrategy:
